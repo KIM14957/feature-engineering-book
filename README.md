@@ -1,8 +1,9 @@
-# feature-engineering-book
 
 # Feature Engineering for Machine Learning 
 
 ### by Alice Zheng &amp; Amanda Casari
+
+### O'Reilly, 2018
 
 https://github.com/alicezheng/feature-engineering-book
 
