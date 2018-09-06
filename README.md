@@ -1,2 +1,10 @@
 # feature-engineering-book
-Feature Engineering for Machine Learning (Alice Zheng &amp; Amanda Casari)
+
+# Feature Engineering for Machine Learning 
+
+### by Alice Zheng &amp; Amanda Casari
+
+https://github.com/alicezheng/feature-engineering-book
+
+* 원서의 소스를 변경된 데이터셋과 라이브러리에 맞게 수정한 버전입니다.
+
