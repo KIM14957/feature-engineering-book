@@ -5,15 +5,15 @@
 
 ### O'Reilly, 2018
 
-* 번역서 (2018년 12월 26일 출간 예정)
+* 번역서 (2018년 12월 26일 출간 예정) <br>
 http://www.acornpub.co.kr/book/feature-ml
 
 
-* 원서 소스코드
+* 원서 소스코드<br>
 https://github.com/alicezheng/feature-engineering-book
 
 
-* 원서
+* 원서<br>
 http://a.co/d/3YgeFyD
 
 
