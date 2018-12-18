@@ -2,8 +2,8 @@
 # Feature Engineering for Machine Learning 
 
 ### by Alice Zheng &amp; Amanda Casari
-
 ### O'Reilly, 2018
+
 
 * 번역서 (2018년 12월 26일 출간 예정) <br>
 http://www.acornpub.co.kr/book/feature-ml
