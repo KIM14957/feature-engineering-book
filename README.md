@@ -6,7 +6,7 @@
 
 
 
-* 번역서 (2018년 12월 26일 출) <br>
+* 번역서 (2018년 12월 26일 출간) <br>
 http://www.acornpub.co.kr/book/feature-ml
 
 
